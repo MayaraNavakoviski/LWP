@@ -9,6 +9,7 @@ function calcularMedia($Num1, $Num2, $Num3){
     return $media;
 }
 
+echo "<h1> Média <h1>";
 echo calcularMedia(100, 100, 100) . "<br>";
 echo calcularMedia(99, 99, 99) . "<br>";
 echo calcularMedia(80, 80, 80) . "<br>";
